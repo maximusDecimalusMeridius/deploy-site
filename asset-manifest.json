@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-site/static/css/main.073c9b0a.css",
+    "main.js": "/deploy-site/static/js/main.df79e7e5.js",
+    "index.html": "/deploy-site/index.html",
+    "main.073c9b0a.css.map": "/deploy-site/static/css/main.073c9b0a.css.map",
+    "main.df79e7e5.js.map": "/deploy-site/static/js/main.df79e7e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.df79e7e5.js"
+  ]
+}
